@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace DataProcessingApp
+namespace dz13
 {
     [Serializable]
     public class Rational
